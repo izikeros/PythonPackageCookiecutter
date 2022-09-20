@@ -1,3 +1,3 @@
 [bandit]
-targets: ./trend_classifier, ./tests
+targets: ./{{cookiecutter.directory_name}}, ./tests
 skips: B101
