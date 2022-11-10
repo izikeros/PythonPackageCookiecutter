@@ -49,7 +49,6 @@ repos:
       - id: black
 
 
-
   # A tool to automatically fix common style issues in Python code. Has plugins.
   - repo: https://github.com/pycqa/flake8
     rev: '5.0.4'
